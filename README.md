@@ -1,6 +1,3 @@
-Certainly! Here's the complete code for the README:
-
-```markdown
 # CryptoTrack Web App
 
 
